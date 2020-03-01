@@ -1,0 +1,12 @@
+creating a copy in GIT repository
+
+git init
+
+git add . # will commit all modified files
+
+git commit
+
+git status
+
+
+git remote add origin https://github.com/adyboysid86/git_demo.git # to move to the repository
