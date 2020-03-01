@@ -4,9 +4,16 @@ git init
 
 git add . # will commit all modified files
 
-git commit
+git commit -m 'adding config file'
 
 git status
 
 
 git remote add origin https://github.com/adyboysid86/git_demo.git # to move to the repository
+
+
+git remote -v # check the remote origin address
+
+git push
+
+git push --set-upstream origin master
